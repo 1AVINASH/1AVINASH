@@ -5,9 +5,9 @@ Visit my [website](https://1avinash.github.io/Portfolio/)  to know more about me
 ## I'm a VR/Software artist/developer
 
 - 🔭 I love learning new softwares, and working on amazing ideas
-- 🌱 I’m currently learning AWS/JS/Angular
+- 🌱 I’m currently learning Spark
 - 👯 I’m looking to collaborate with other developers/artists
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Hobbies: I love to play football, chess and play piano
 
 ### Connect with me:
